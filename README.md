@@ -6,9 +6,6 @@
 
 </br>
 <a href="https://github.com/PitoDevID"><img title="Author" src="https://img.shields.io/badge/Author-PitoDevID-red.svg?color=ff0000&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/PitoDevID/bot-bug-md"><img title="Stars" src="https://img.shields.io/github/stars/PitoDevID/bot-bug-md?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/PitoDevID/bot-bug-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/PitoDevID/bot-bug-md?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/PitoDevID/bot-bug-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PitoDevID/bot-bug-md?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 <b><details><summary>Termux Installation</summary></b>
 
