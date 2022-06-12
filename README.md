@@ -28,7 +28,9 @@
 <!-- Edit -->
 <b><details><summary>Edit index.js</summary></b>
 ```bash
-Tes
+wm = "By PitoDev ArmStrong" [ YOUR NAME ]
+urlnye = "https://github.com/PitoDevID" [ LINK FOR WEBPAGE ]
+fotonye = fs.readFileSync('./pict.jpg') [ JPEG FOT WEBPAGE ]
 ```
 </details>
 
