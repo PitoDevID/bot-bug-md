@@ -7,6 +7,9 @@
 </br>
 <a href="https://github.com/PitoDevID"><img title="Author" src="https://img.shields.io/badge/Author-PitoDevID-red.svg?color=ff0000&style=for-the-badge&logo=github" /></a>  
 
+Unfortunately, I limit this bot to only being able to send 10 viruses in 1 day
+If you want premium (send unlimited) you can contact [WhatsApp](https://wa.me/6285235637978)
+
 <b><details><summary>Termux Installation</summary></b>
 
 * Download & Install Termux [`Click here`](https://f-droid.org/repo/com.termux_118.apk)
