@@ -49,6 +49,16 @@ fotonye = fs.readFileSync('./pict.jpg') [ JPEG FOT WEBPAGE ]
 * FFmpeg buildpack https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 </details>
 
+# PIMTUR
+
+
+| OWNER |✅|
+| ------------- | ------------- |
+| SBUG |✅|
+| S (Sticker) |✅|
+| TOIMG |✅|
+| AUTOVN ON/OFF |✅|
+
 ## <samp>  Big Thanks To :
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
