@@ -31,6 +31,14 @@
 </details>
 
 <!-- Edit -->
+<b><details><summary>Sessions ?</summary></b>
+```bash
+session-md.json
+```
+</details>
+
+
+<!-- Edit -->
 <b><details><summary>Edit index.js</summary></b>
 ```bash
 wm = "By PitoDev ArmStrong" [ YOUR NAME ]
@@ -48,6 +56,8 @@ fotonye = fs.readFileSync('./pict.jpg') [ JPEG FOT WEBPAGE ]
 * NodeJS buildpack
 * FFmpeg buildpack https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 </details>
+
+* [CLICK HERE](https://github.com/PitoDevID/bot-bug-md/blob/master/index.js)
 
 ## <samp>FEATURE </samp>
 
